@@ -1,5 +1,4 @@
-# Ini
-Config files for my GitHub profile.
+
 @@ -0,0 +1,10 @@
 - 👋 Hi, I’m @Jasmine-Ma
 - 👀 I’m interested in ...cucumber & python
